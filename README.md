@@ -1,4 +1,4 @@
 Set-Client
 ==========
 
-[demo](http://loganbarnes.net/projects/web/set/)
+[Demo](http://loganbarnes.net/projects/web/set/)
