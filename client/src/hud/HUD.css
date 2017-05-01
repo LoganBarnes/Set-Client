@@ -1,0 +1,8 @@
+.hud {
+  position: fixed;
+  text-align: center;
+  background-color: grey;
+  padding-left: 20px;
+  padding-right: 20px;
+  z-index: 10;
+}
